@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/kenpo4-0824-utaawase",
  "yomi": "けんぽうよねんはちがつにじゅうよっかうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（四十二番）",
+  "era": "建保4年（1216）8月24日",
+  "author": "未詳",
+  "desc": "当座で詠まれた四十二番の歌合。夕草花・古寺月・寒山雁・寄夢恋・寄雨恋・寄石恋の題で、家衡・知家・範宗・行能・兵衛内侍らが作者を隠して詠み、衆議で判を定めた。"
+ },
  "editions": [
   {
    "pid": "1879502",
